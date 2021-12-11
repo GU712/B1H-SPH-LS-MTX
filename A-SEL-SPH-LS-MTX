@@ -12,11 +12,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]FILMES DE SUPER-HERÓIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1F-ANM-LS-KRP/main/A1-FLM-ANM-LS-KRP</externallink>
-<thumbnail>https://i.ibb.co/k3HqvNc/ANM-FILM.png</thumbnail>
+<thumbnail>https://i.ibb.co/Y2m3zRj/SPH-FLM.png</thumbnail>
 <fanart>https://i.ibb.co/f10dJBQ/ANIM-FAN.png</fanart>
-<info>OS MELHORES FILMES DE ANIMAÇÃO ESTÃO AQUI.
+<info>OS MELHORES FILMES DE SUPER-HERÓIS ESTÃO AQUI.
 NÃO ENCONTROU O QUE PROCURAVA ?
 SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
 </channel>
@@ -26,9 +26,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE ANIMAÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]COLEÇÕES DE FILMES DE SUPER-HERÓIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1F-ANM-LS-KRP/main/B-COL-ANM-LS-KRP</externallink>
-<thumbnail>https://i.ibb.co/znjgHrJ/ANM-COL.png</thumbnail>
+<thumbnail>https://i.ibb.co/Sxrdw1g/SPH-COL.png</thumbnail>
 <fanart>https://i.ibb.co/f10dJBQ/ANIM-FAN.png</fanart>
 <info>AS MELHORES COLEÇÕES DE FILMES ESTÃO AQUI.
 NÃO ENCONTROU O QUE PROCURAVA ?
@@ -39,11 +39,11 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]SÉRIES DE ANIMAÇÃO[/B][/COLOR]</name>
+<name>[COLOR white][B]SÉRIES DE SUPER-HERÓIS[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/A1F-ANM-LS-KRP/main/C-SRS-ANM-LS-KRP</externallink>
-<thumbnail>https://i.ibb.co/4SNCpDV/ANM-SRS.png</thumbnail>
+<thumbnail>https://i.ibb.co/n1JLSF9/SPH-SRS.png</thumbnail>
 <fanart>https://i.ibb.co/f10dJBQ/ANIM-FAN.png</fanart>
-<info>AS MELHORES SÉRIES DE ANIMAÇÃO ESTÃO AQUI.
+<info>AS MELHORES SÉRIES DE SUPER-HERÓIS ESTÃO AQUI.
 NÃO ENCONTROU O QUE PROCURAVA ?
 SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
 </channel>

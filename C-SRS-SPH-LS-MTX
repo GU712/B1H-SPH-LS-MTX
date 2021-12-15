@@ -12,14 +12,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
+<name>[COLOR white][B]The Flash (2014) (2014-2021)[/B][/COLOR]</name>
 <externallink><LINKDAPAGINAALVO></externallink>
-<thumbnail><CAPADASERIE></thumbnail>
-<fanart><FUNDODASERIE></fanart>
-<info>Assista aqui os episodios da série NOMEDASERIE. 
-[COLOR orange][B]GENERO[/B][/COLOR]
-[COLOR orange][B]00 TEMPS - 00 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/yZevl2vHQgmosfwUdVNzviIfaWS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/pXAX9JKt5qpxiaE5UajVNIlMFmk.jpg</fanart>
+<info>Assista aqui os episodios da série The Flash. 
+[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
+[COLOR orange][B]08 TEMPS - 155 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 2014 a 2021[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -30,7 +30,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail><CAPADASERIE></thumbnail>
 <fanart><FUNDODASERIE></fanart>
 <info>Assista aqui os episodios da série NOMEDASERIE. 
-[COLOR orange][B]GENERO[/B][/COLOR]
+[COLOR orange][B]SUPER-HERÓIS[/B][/COLOR]
 [COLOR orange][B]00 TEMPs - 00 EPs[/B][/COLOR]
 [COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
 </channel>

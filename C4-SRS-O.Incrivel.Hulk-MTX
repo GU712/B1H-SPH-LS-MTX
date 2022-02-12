@@ -1,4 +1,14 @@
 <item>		
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>		
+<link>NOLINK</link>		
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>		
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<item>		
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]O Incrível Hulk[/B][/COLOR]</title>		
 <link>plugin://plugin.video.youtube/play/?video_id=o-In13bZbAQ</link>		
 <thumbnail>https://www.themoviedb.org/t/p/original/iByskDYAql50lmEel8NdmAGFSty.jpg</thumbnail>		
@@ -36,7 +46,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T01/LS-T01E11.m4v $nome=[COLOR orange][B]T01E11[COLOR yellow] -> [COLOR white]Terremotos Acontecem [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T01/LS-T01E12.m4v $nome=[COLOR orange][B]T01E12[COLOR yellow] -> [COLOR white]Reportagem nas Docas [/B][/COLOR]</link>		
 		
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/uYIpRlCUUGgkJSaAS3B2hq5kwIh.jpg<thumbnail>		
+<thumbnail>https://www.themoviedb.org/t/p/original/uYIpRlCUUGgkJSaAS3B2hq5kwIh.jpg<thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>		
 <info>O Dr. David Bannern trabalha num experimento que da errado: sempre que ele está sob muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk</info>		
 <genre>SUPER-HERÓIS</genre>		
@@ -46,7 +56,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>		
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Incrível Hulk (1978) - T02 - HD DUAL[/B][/COLOR]</title>		
 		
-<link>NOLINK $nome=[COLOR orange][B] Temporada 02 - 00 EPs[/B][/COLOR]</link>		
+<link>NOLINK $nome=[COLOR orange][B] Temporada 02 - 22 EPs[/B][/COLOR]</link>		
 		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E01.m4v $nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]O Casado [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E02.m4v $nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]O Horror de Antowuk [/B][/COLOR]</link>		
@@ -57,10 +67,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E07.m4v $nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]Alice Na Discoteca [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E08.m4v $nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]Instinto Assassino [/B][/COLOR]</link>		
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E09.m4v $nome=[COLOR orange][B]T02E09[COLOR yellow] -> [COLOR white]Parem as Prensas [/B][/COLOR]</link>		
-		
-<link>NOLINK $nome=[COLOR black][B].[/B][/COLOR]</link>		
-<link>NOLINK $nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
-<link>NOLINK $nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E10.mp4 $nome=[COLOR orange][B]T02E10[COLOR yellow] -> [COLOR white]Fuga de Los Santos [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E11.mp4 $nome=[COLOR orange][B]T02E11[COLOR yellow] -> [COLOR white]Fogo Selvagem [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E12.mp4 $nome=[COLOR orange][B]T02E12[COLOR yellow] -> [COLOR white]Um Lugar Solitario [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E13.mp4 $nome=[COLOR orange][B]T02E13[COLOR yellow] -> [COLOR white]Como Um Irmao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E14.mp4 $nome=[COLOR orange][B]T02E14[COLOR yellow] -> [COLOR white]Assombrasao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E15.mp4 $nome=[COLOR orange][B]T02E15[COLOR yellow] -> [COLOR white]O Homem Misterioso (Parte 1) [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E16.mp4 $nome=[COLOR orange][B]T02E16[COLOR yellow] -> [COLOR white]O Homem Misterioso (Parte 2) [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E17.mp4 $nome=[COLOR orange][B]T02E17[COLOR yellow] -> [COLOR white]O Discipulo [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E18.mp4 $nome=[COLOR orange][B]T02E18[COLOR yellow] -> [COLOR white]Sem Fuga [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E19.mp4 $nome=[COLOR orange][B]T02E19[COLOR yellow] -> [COLOR white]Espiritos Ancestrais [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E20.mp4 $nome=[COLOR orange][B]T02E20[COLOR yellow] -> [COLOR white]A Confissao [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E21.mp4 $nome=[COLOR orange][B]T02E21[COLOR yellow] -> [COLOR white]O Quarto do Silencio [/B][/COLOR]</link>		
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/O.Incrivel.Hulk/T02/LS-T02E22.mp4 $nome=[COLOR orange][B]T02E22[COLOR yellow] -> [COLOR white]A Desforra [/B][/COLOR]</link>		
 		
 <thumbnail>https://www.themoviedb.org/t/p/original/1uwVvEUEJ9wHZO2hvkhzgdRAXEV.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>		
@@ -79,10 +98,50 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
 		
 <link>NOLINK $nome=[COLOR black][B].[/B][/COLOR]</link>		
-<link>NOLINK $nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISODIOS?[/B][/COLOR]</link>		
+<link>NOLINK $nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISÓDIOS?[/B][/COLOR]</link>		
 <link>NOLINK $nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
 		
-<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/wyfBLZY6Am42JahPXuHmyCK5fUY.jpg</thumbnail>		
+<thumbnail>https://www.themoviedb.org/t/p/original/wyfBLZY6Am42JahPXuHmyCK5fUY.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>		
+<info>O Dr. David Bannern trabalha num experimento que da errado: sempre que ele está sob muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk</info>		
+<genre>SUPER-HERÓIS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Incrível Hulk (1979) - T04 - HD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK $nome=[COLOR orange][B] Temporada 04 - 00 EPs[/B][/COLOR]</link>		
+		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link><LINKUNIVVERSAL> $nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<link>NOLINK $nome=[COLOR black][B].[/B][/COLOR]</link>		
+<link>NOLINK $nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISÓDIOS?[/B][/COLOR]</link>		
+<link>NOLINK $nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/qjXSWlWYYfZYZDLhi9dPOAvdlqA.jpg</thumbnail>		
+<fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>		
+<info>O Dr. David Bannern trabalha num experimento que da errado: sempre que ele está sob muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk</info>		
+<genre>SUPER-HERÓIS</genre>		
+</item>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+item>		
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]O Incrível Hulk (1979) - T05 - HD DUAL[/B][/COLOR]</title>		
+		
+<link>NOLINK $nome=[COLOR orange][B] Temporada 05- 00 EPs[/B][/COLOR]</link>		
+		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+<link><LINKUNIVVERSAL> $nome=[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]NomedoEpisodio[/B][/COLOR]</link>		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		
+<link>NOLINK $nome=[COLOR black][B].[/B][/COLOR]</link>		
+<link>NOLINK $nome=[COLOR orange][B]  QUER ASSISTIR MAIS EPISÓDIOS?[/B][/COLOR]</link>		
+<link>NOLINK $nome=[COLOR orange][B]SOLICITE AO SUPORTE NO GRUPO DO WHATS.[/B][/COLOR]</link>		
+		
+<thumbnail>https://www.themoviedb.org/t/p/original/irevyMYmRxb4GBqmxTvagtZDzJD.jpg</thumbnail>		
 <fanart>https://www.themoviedb.org/t/p/original/ldtJ6vUo8heez1HVD91Flpg7F5W.jpg</fanart>		
 <info>O Dr. David Bannern trabalha num experimento que da errado: sempre que ele está sob muito estresse, seu corpo se modifica e ele se transforma no Incrível Hulk</info>		
 <genre>SUPER-HERÓIS</genre>		
@@ -105,3 +164,4 @@ SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>		
 </item>		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX		
+		

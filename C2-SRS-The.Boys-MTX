@@ -69,8 +69,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <thumbnail><CAPADASERIE></thumbnail>			
 <fanart><FUNDODASERIE></fanart>			
-<info><SINOPSE></info>			
-<genre>GENERO</genre>			
+<info>Um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem</info>			
+<genre>SUPER-HERÓIS</genre>			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
@@ -94,7 +94,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <thumbnail>https://www.themoviedb.org/t/p/original/3PhOp6IH74m1Np7P8UVwdsQgRnn.jpg</thumbnail>			
 <fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>			
-<info><SINOPSE></info>			
+<info>Um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem</info>			
 <genre>SUPER-HERÓIS</genre>			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
@@ -115,7 +115,23 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 <thumbnail>https://www.themoviedb.org/t/p/original/9Sa3WBsTnJRK8PlKym4N9wUodIT.jpg</thumbnail>			
 <fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>			
-<info><SINOPSE></info>			
+<info>Um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem</info>			
+<genre>SUPER-HERÓIS</genre>			
+</item>			
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+			
+<item>			
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]The Boys (2020) - T03 - HD DUAL+LEG [/B][/COLOR]</title>			
+			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 03 EPs - ATUALIZANDO[/B][/COLOR]</link>			
+			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T01E03.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Revanche [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T01E04.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Unico Homem No Ceu [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T01E05.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Costa Barbara [/B][/COLOR]</link>			
+			
+<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>			
+<fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>			
+<info>Um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem</info>			
 <genre>SUPER-HERÓIS</genre>			
 </item>			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			

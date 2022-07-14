@@ -43,29 +43,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
 <item>			
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Boys (2022) - T03 - HD DUAL - ATUALIZANDO[/B][/COLOR]</title>			
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD434B69DFDD923F9B4A2296F3D2B20E589C84E0</link>			
-<thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>			
-<fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>			
-<info>Um mundo em que super-heróis são as maiores celebridades do planeta, e rotineiramente abusam dos seus poderes ao invés de os usarem para o bem.</info>			
-<genre>SUPER-HERÓIS</genre>			
-</item>			
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
+<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Boys (2019) - T03 - FHD DUAL[/B][/COLOR]</title>			
 			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 08 EPs[/B][/COLOR]</link>			
 			
-<item>			
-<title>[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]The Boys (2019) - T01 - FHD DUAL[/B][/COLOR]</title>			
-			
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 00 EPs[/B][/COLOR]</link>			
-			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E01[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E02[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E03[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E04[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E05[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E06[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E07[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
-<link>plugin://plugin.video.elementum/play?uri=<LINKMAGNET>$nome=[COLOR orange][B]T02E08[COLOR yellow] -> [COLOR white]NOMEDOEPISODIO [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd434b69dfdd923f9b4a2296f3d2b20e589c84e0$nome=[COLOR orange][B]T03E01-02-03[COLOR yellow] -> [COLOR white]The Boys [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b8e8439f7254620d5d1afabf81ef2c85c6c01fc$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]O Glorioso Plano de Cinco Anos [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6306b5acf1895abd98fcd8ff6c3109b53fee765$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]A Ultima Oportunidade para Olhar Este Mundo de Mentiras [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:155124605f7af62e46d2be6e163c1ddfea04587a$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Supersuruba [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4321afd7dbf2477bd51b6ee934f2d2bd3dd9282$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Uma Vela para Iluminar Seu Caminho Ate a Cama [/B][/COLOR]</link>			
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0130597397a3231add94f4eb949d5dffce7158ce$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]O Quente Deserto Instantaneo [/B][/COLOR]</link>			
 			
 <thumbnail><CAPADASERIE></thumbnail>			
 <fanart><FUNDODASERIE></fanart>			
@@ -123,11 +110,16 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>			
 <title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]The Boys (2020) - T03 - HD DUAL+LEG [/B][/COLOR]</title>			
 			
-<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 03 EPs - ATUALIZANDO[/B][/COLOR]</link>			
+<link>NOLINK$nome=[COLOR orange][B] Temporada 03 - 08 EPs[/B][/COLOR]</link>			
 			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T01E03.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Revanche [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T01E04.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Unico Homem No Ceu [/B][/COLOR]</link>			
-<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T01E05.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Costa Barbara [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T03E01.mkv$nome=[COLOR orange][B]T03E01[COLOR yellow] -> [COLOR white]Revanche [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T03E02.mkv$nome=[COLOR orange][B]T03E02[COLOR yellow] -> [COLOR white]O Unico Homem No Ceu [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T03E03.mkv$nome=[COLOR orange][B]T03E03[COLOR yellow] -> [COLOR white]Costa Barbara [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T03E04.mkv$nome=[COLOR orange][B]T03E04[COLOR yellow] -> [COLOR white]O Glorioso Plano de Cinco Anos [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T03E05.mkv$nome=[COLOR orange][B]T03E05[COLOR yellow] -> [COLOR white]A Ultima Oportunidade para Olhar Este Mundo de Mentiras [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T03E06.mkv$nome=[COLOR orange][B]T03E06[COLOR yellow] -> [COLOR white]Supersuruba [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T03E07.mkv$nome=[COLOR orange][B]T03E07[COLOR yellow] -> [COLOR white]Uma Vela para Iluminar Seu Caminho Ate a Cama [/B][/COLOR]</link>			
+<link>https://luminart.ls.lsnew.workers.dev/0:/SRS/8-SPH/The.Boys/T03/LS-T03E08.mkv$nome=[COLOR orange][B]T03E08[COLOR yellow] -> [COLOR white]O Quente Deserto Instantaneo [/B][/COLOR]</link>			
 			
 <thumbnail>https://www.themoviedb.org/t/p/original/ut4PhX7OP2l2oJhrIUYWnt9pnQU.jpg</thumbnail>			
 <fanart>https://www.themoviedb.org/t/p/original/eub9xDaIfNwvg0oEv5tvkAlFqrO.jpg</fanart>			
@@ -146,8 +138,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX			
 			
 <item>			
-<title>[COLOR orange][B]QUER ASSISTIR OUTRA TEMPORADA ?			
-SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</title>			
+<title>[COLOR orange][B]O VÍDEO NÃO ABRIU  ?			
+ CONTATE O SUPORTE NO WHATS, QUE RESOLVEMOS. [/B][/COLOR]</title>			
 <link>ignoreme</link>			
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>			
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>			
